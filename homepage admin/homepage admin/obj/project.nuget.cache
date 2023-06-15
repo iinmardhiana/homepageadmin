@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LTEZydA/s3tuySdi3QMKUpnixoAOWw/GUYY6F/F456jKGFWMCpdIPMLBSOtSRN2kD9cqlB1nHCAtkSNDsC+i4w==",
+  "success": true,
+  "projectFilePath": "E:\\Downloads\\homepage admin\\homepage admin\\homepage admin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
