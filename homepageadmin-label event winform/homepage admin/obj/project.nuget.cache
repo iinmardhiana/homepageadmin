@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "EqHVDEavtwP54CgbeaNeXAt8Vv6WQWH25QomS9q2bbcb705E31x2h+GRTPNN4SX0R2wcvyKundAGj/iltjeEgw==",
+  "success": true,
+  "projectFilePath": "D:\\KULIAH\\Database & Pemro I'in\\homepageadmin-label event winform\\homepage admin\\homepage admin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

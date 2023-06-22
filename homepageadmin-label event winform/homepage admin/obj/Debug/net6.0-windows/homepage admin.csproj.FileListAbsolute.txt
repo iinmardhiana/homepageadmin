@@ -1,0 +1,71 @@
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\bin\Debug\net6.0-windows\homepage admin.exe
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\bin\Debug\net6.0-windows\homepage admin.deps.json
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\bin\Debug\net6.0-windows\homepage admin.runtimeconfig.json
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\bin\Debug\net6.0-windows\homepage admin.dll
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\bin\Debug\net6.0-windows\homepage admin.pdb
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.csproj.AssemblyReference.cache
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage_admin.Form1.resources
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage_admin.Properties.Resources.resources
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.csproj.GenerateResource.cache
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.AssemblyInfoInputs.cache
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.AssemblyInfo.cs
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.csproj.CoreCompileInputs.cache
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.dll
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\refint\homepage admin.dll
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.pdb
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.genruntimeconfig.cache
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\ref\homepage admin.dll
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\bin\Debug\net6.0-windows\System.Management.dll
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.csproj.CopyComplete
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage_admin.Form2.resources
+E:\Downloads\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.csproj.AssemblyReference.cache
+E:\Downloads\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.dll
+E:\Downloads\homepage admin\homepage admin\obj\Debug\net6.0-windows\refint\homepage admin.dll
+E:\Downloads\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.pdb
+E:\Downloads\homepage admin\homepage admin\bin\Debug\net6.0-windows\homepage admin.exe
+E:\Downloads\homepage admin\homepage admin\bin\Debug\net6.0-windows\homepage admin.deps.json
+E:\Downloads\homepage admin\homepage admin\bin\Debug\net6.0-windows\homepage admin.runtimeconfig.json
+E:\Downloads\homepage admin\homepage admin\bin\Debug\net6.0-windows\homepage admin.dll
+E:\Downloads\homepage admin\homepage admin\bin\Debug\net6.0-windows\homepage admin.pdb
+E:\Downloads\homepage admin\homepage admin\bin\Debug\net6.0-windows\Guna.UI2.dll
+E:\Downloads\homepage admin\homepage admin\bin\Debug\net6.0-windows\System.Management.dll
+E:\Downloads\homepage admin\homepage admin\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+E:\Downloads\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage_admin.Form1.resources
+E:\Downloads\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage_admin.Form2.resources
+E:\Downloads\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage_admin.Properties.Resources.resources
+E:\Downloads\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.csproj.GenerateResource.cache
+E:\Downloads\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.AssemblyInfoInputs.cache
+E:\Downloads\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.AssemblyInfo.cs
+E:\Downloads\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.csproj.CoreCompileInputs.cache
+E:\Downloads\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.csproj.CopyComplete
+E:\Downloads\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.genruntimeconfig.cache
+E:\Downloads\homepage admin\homepage admin\obj\Debug\net6.0-windows\ref\homepage admin.dll
+D:\KULIAH\Database & Pemro I'in\homepageadmin-label event winform\homepage admin\bin\Debug\net6.0-windows\homepage admin.exe
+D:\KULIAH\Database & Pemro I'in\homepageadmin-label event winform\homepage admin\bin\Debug\net6.0-windows\homepage admin.deps.json
+D:\KULIAH\Database & Pemro I'in\homepageadmin-label event winform\homepage admin\bin\Debug\net6.0-windows\homepage admin.runtimeconfig.json
+D:\KULIAH\Database & Pemro I'in\homepageadmin-label event winform\homepage admin\bin\Debug\net6.0-windows\homepage admin.dll
+D:\KULIAH\Database & Pemro I'in\homepageadmin-label event winform\homepage admin\bin\Debug\net6.0-windows\homepage admin.pdb
+D:\KULIAH\Database & Pemro I'in\homepageadmin-label event winform\homepage admin\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\KULIAH\Database & Pemro I'in\homepageadmin-label event winform\homepage admin\bin\Debug\net6.0-windows\System.Management.dll
+D:\KULIAH\Database & Pemro I'in\homepageadmin-label event winform\homepage admin\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\KULIAH\Database & Pemro I'in\homepageadmin-label event winform\homepage admin\obj\Debug\net6.0-windows\homepage admin.csproj.AssemblyReference.cache
+D:\KULIAH\Database & Pemro I'in\homepageadmin-label event winform\homepage admin\obj\Debug\net6.0-windows\homepage_admin.Properties.Resources.resources
+D:\KULIAH\Database & Pemro I'in\homepageadmin-label event winform\homepage admin\obj\Debug\net6.0-windows\homepage admin.csproj.GenerateResource.cache
+D:\KULIAH\Database & Pemro I'in\homepageadmin-label event winform\homepage admin\obj\Debug\net6.0-windows\homepage admin.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\Database & Pemro I'in\homepageadmin-label event winform\homepage admin\obj\Debug\net6.0-windows\homepage admin.AssemblyInfoInputs.cache
+D:\KULIAH\Database & Pemro I'in\homepageadmin-label event winform\homepage admin\obj\Debug\net6.0-windows\homepage admin.AssemblyInfo.cs
+D:\KULIAH\Database & Pemro I'in\homepageadmin-label event winform\homepage admin\obj\Debug\net6.0-windows\homepage admin.csproj.CoreCompileInputs.cache
+D:\KULIAH\Database & Pemro I'in\homepageadmin-label event winform\homepage admin\obj\Debug\net6.0-windows\homepage admin.csproj.CopyComplete
+D:\KULIAH\Database & Pemro I'in\homepageadmin-label event winform\homepage admin\obj\Debug\net6.0-windows\homepage admin.dll
+D:\KULIAH\Database & Pemro I'in\homepageadmin-label event winform\homepage admin\obj\Debug\net6.0-windows\refint\homepage admin.dll
+D:\KULIAH\Database & Pemro I'in\homepageadmin-label event winform\homepage admin\obj\Debug\net6.0-windows\homepage admin.pdb
+D:\KULIAH\Database & Pemro I'in\homepageadmin-label event winform\homepage admin\obj\Debug\net6.0-windows\homepage admin.genruntimeconfig.cache
+D:\KULIAH\Database & Pemro I'in\homepageadmin-label event winform\homepage admin\obj\Debug\net6.0-windows\ref\homepage admin.dll
+D:\KULIAH\Database & Pemro I'in\homepageadmin-label event winform\homepage admin\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KULIAH\Database & Pemro I'in\homepageadmin-label event winform\homepage admin\bin\Debug\net6.0-windows\Npgsql.dll
+D:\KULIAH\Database & Pemro I'in\homepageadmin-label event winform\homepage admin\obj\Debug\net6.0-windows\homepage_admin.homepage_admin.resources
+D:\KULIAH\Database & Pemro I'in\homepageadmin-label event winform\homepage admin\obj\Debug\net6.0-windows\homepage_admin.logout.resources
